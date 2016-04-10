@@ -33,9 +33,9 @@
   <uses-feature android:name="android.hardware.screen.landscape"/>
   
   <application android:icon="@drawable/ic_launcher"
-               android:label="Ingredient Scanner">
+               android:label="Aia">
     <activity android:name=".CaptureActivity"
-              android:screenOrientation="landscape"
+              android:screenOrientation="fullSensor"
               android:configChanges="orientation|keyboardHidden|screenSize"
               android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
               android:windowSoftInputMode="stateAlwaysHidden"              
