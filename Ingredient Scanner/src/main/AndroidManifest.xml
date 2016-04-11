@@ -35,7 +35,7 @@
   <application android:icon="@drawable/ic_launcher"
                android:label="Aia">
     <activity android:name=".CaptureActivity"
-              android:screenOrientation="fullSensor"
+              android:screenOrientation="landscape"
               android:configChanges="orientation|keyboardHidden|screenSize"
               android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
               android:windowSoftInputMode="stateAlwaysHidden"              
