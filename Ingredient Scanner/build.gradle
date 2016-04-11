@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "edu.sfsu.cs.orange.ocr"
         minSdkVersion 15
-        targetSdkVersion 15  //changed to 15
+        targetSdkVersion 15  //changed to 15 <I typed this, so you should be good now. I like to commit this way
     }
     buildTypes {
         release {
